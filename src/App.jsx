@@ -135,7 +135,7 @@ function App() {
               >
                 {graf.map((node)=>{
                   if(node.node_type == 2) {
-                    return <Material.MenuItem value={node.id}>{node.node_name.replaceAll('Rs-','Rumah Sakit')}</Material.MenuItem>
+                    return <Material.MenuItem value={node.id}>{node.node_name.replaceAll('Rs-','Rumah Sakit ')}</Material.MenuItem>
                   }
                 } )}
               </Material.Select>

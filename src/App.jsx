@@ -170,7 +170,7 @@ function App() {
       <div className='footer'>
         <span>
           <RouteIcon fontSize='large' className='color-primary' />
-          <p>Sistem Penunjang Keputusan Dalam Menentukan Rute terpendek Ambulan menuju Rumah Sakit</p>
+          <p>Sistem Pencarian Rute Terpendek Pengantaran Pasien Menggunakan Ambulans Di Kabupaten Jember Berbasis Website</p>
         </span>
         <span>
           <CheckCircleOutlineIcon fontSize='large' className='color-primary' />
